@@ -1,0 +1,24 @@
+{
+  "name": "coderhouse-profile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lopezoscar/coderhouse-profile.git"
+  },
+  "author": "Oscar Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lopezoscar/coderhouse-profile/issues"
+  },
+  "homepage": "https://github.com/lopezoscar/coderhouse-profile#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "express-handlebars": "^2.0.1",
+    "mongojs": "^2.2.2"
+  }
+}
